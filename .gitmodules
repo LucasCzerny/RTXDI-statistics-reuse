@@ -6,7 +6,7 @@
 	url = https://github.com/NVIDIA-RTX/NRD.git
 [submodule "rtxdi-runtime"]
 	path = Libraries/Rtxdi
-	url = https://github.com/NVIDIA-RTX/RTXDI-Library
+	url = git@github.com:LucasCzerny/RTXDI-Library-statistics-reuse.git
 [submodule "thirdparty/cxxopts"]
 	path = External/cxxopts
 	url = https://github.com/jarro2783/cxxopts.git
